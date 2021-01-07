@@ -1,0 +1,55 @@
+Trace line 5: def pow
+Trace line 14: def rough_log
+Trace line 22: def sqrt
+Trace line 38: Call function input with params [Give a number: ]
+Trace line 38: Call function float with params [100000000]
+Trace line 38: v = 1.0E8
+Trace line 39: Call function sqrt with params [1.0E8]
+Trace line 23: x = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Trace line 25: Call function rough_log with params [1.0E8]
+Trace line 15: if True alt #1: ...
+Trace line 16: Call function rough_log with params [1.0E7]
+Trace line 15: if True alt #1: ...
+Trace line 16: Call function rough_log with params [1000000.0]
+Trace line 15: if True alt #1: ...
+Trace line 16: Call function rough_log with params [100000.0]
+Trace line 15: if True alt #1: ...
+Trace line 16: Call function rough_log with params [10000.0]
+Trace line 15: if True alt #1: ...
+Trace line 16: Call function rough_log with params [1000.0]
+Trace line 15: if True alt #1: ...
+Trace line 16: Call function rough_log with params [100.0]
+Trace line 15: if True alt #1: ...
+Trace line 16: Call function rough_log with params [10.0]
+Trace line 19: return 1
+Trace line 16: return 2
+Trace line 16: return 3
+Trace line 16: return 4
+Trace line 16: return 5
+Trace line 16: return 6
+Trace line 16: return 7
+Trace line 16: return 8
+Trace line 25: d = 8
+Trace line 26: else: ...
+Trace line 29: Call function pow with params [60, 3]
+Trace line 6: if True alt #1: ...
+Trace line 7: Call function pow with params [60, 2]
+Trace line 6: if True alt #1: ...
+Trace line 7: Call function pow with params [60, 1]
+Trace line 6: else: ...
+Trace line 11: return 60
+Trace line 7: return 3600
+Trace line 7: return 216000
+Trace line 29: x[0] = 216000
+Trace line 31: Call function range with params [0, 11]
+Trace line 31: for #1: ix = 0
+Trace line 32: x[1] = 108231.48148148147
+Trace line 34: return 0
+Trace line 39: sq2 = 0
+Trace line 40: Call function pow with params [0, 2]
+Trace line 6: if True alt #1: ...
+Trace line 7: Call function pow with params [0, 1]
+Trace line 6: else: ...
+Trace line 11: return 0
+Trace line 7: return 0
+Trace line 40: Call function print with params [0, squared is, 0]
